@@ -1,0 +1,1 @@
+console.log("Je ne suis pas compilé, lol, ah ben si, ah ben non mince")
